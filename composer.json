@@ -1,0 +1,7 @@
+{
+    "name": "packagist-conductors/vcs-repository-test",
+    "description": "Package to test add/edit of VCS repositories",
+    "keywords": ["test-suite"],
+    "type": "project",
+    "require": {}
+}
